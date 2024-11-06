@@ -1,0 +1,51 @@
+Date,Country,Visit_Type,Context,Trade_Value,Bilateral_Relation_Score,Event_Next_Year
+2023-10-15,USA,Bilateral,Trade Agreements,65000,9.5,Yes
+2023-05-22,Australia,Multilateral,QUAD Summit,18000,8.2,No
+2022-09-18,Japan,Bilateral,Defense Collaboration,22000,8.9,Yes
+2021-11-12,Russia,Bilateral,Energy Partnership,50000,8.7,No
+2020-08-08,Saudi Arabia,Bilateral,Investment Deal,46000,7.8,Yes
+2022-03-21,UK,Bilateral,Trade Expansion,30000,8.6,Yes
+2021-07-30,Canada,Bilateral,Energy Partnership,17000,8.3,No
+2020-09-10,Germany,Bilateral,Green Energy,28000,8.7,Yes
+2019-04-15,China,Bilateral,Strategic Dialogue,90000,9.2,No
+2023-06-18,Brazil,Multilateral,BRICS Summit,14000,7.5,Yes
+2023-09-22,France,Bilateral,Defense Cooperation,25000,8.8,Yes
+2023-11-10,South Korea,Bilateral,Technology Exchange,19000,8.4,No
+2018-06-12,Australia,Multilateral,G20 Summit,18000,8.2,No
+2022-11-19,Italy,Multilateral,G20 Summit,18000,8.2,No
+2019-03-08,South Africa,Bilateral,Investment Meeting,13000,7.9,Yes
+2023-04-10,Nepal,Bilateral,Cultural Exchange,2000,7.0,No
+2022-08-12,Maldives,Bilateral,Security Cooperation,1200,6.8,No
+2023-05-17,Sri Lanka,Bilateral,Fisheries Agreement,2400,7.1,No
+2019-07-20,Bangladesh,Bilateral,Border Security,14000,7.3,Yes
+2020-09-28,Bhutan,Bilateral,Infrastructure Development,500,6.9,No
+2022-12-15,Singapore,Bilateral,Digital Economy,22000,8.6,Yes
+2021-10-21,Indonesia,Bilateral,Trade Discussion,15000,7.7,Yes
+2020-02-12,Vietnam,Bilateral,Defense Collaboration,17000,7.8,No
+2023-03-11,Myanmar,Bilateral,Humanitarian Aid,4000,6.5,No
+2023-07-25,Iran,Bilateral,Energy Partnership,5000,6.4,Yes
+2020-10-16,UAE,Bilateral,Investment Deals,32000,8.3,Yes
+2021-05-06,Oman,Bilateral,Trade and Investment,14000,7.2,No
+2022-02-18,Qatar,Bilateral,Energy Partnership,12000,7.0,Yes
+2020-12-02,Kuwait,Bilateral,Infrastructure Partnership,10000,7.1,No
+2019-11-27,Israel,Bilateral,Technology and Defense,16000,8.4,Yes
+2023-01-09,Switzerland,Bilateral,Financial Cooperation,15000,8.5,Yes
+2021-04-14,Sweden,Bilateral,Green Technology,13000,8.1,No
+2020-03-21,Norway,Bilateral,Climate Change,12000,7.9,Yes
+2021-06-28,Denmark,Bilateral,Energy Partnership,9000,7.5,Yes
+2022-09-14,Netherlands,Bilateral,Technology Collaboration,22000,8.4,Yes
+2023-12-09,Belgium,Bilateral,Trade and Technology,14000,7.8,No
+2023-02-19,Spain,Bilateral,Defense Cooperation,17000,8.0,Yes
+2019-10-08,Greece,Bilateral,Tourism and Culture,6000,6.7,No
+2022-06-22,Turkey,Bilateral,Defense and Security,18000,7.4,Yes
+2021-09-05,Argentina,Multilateral,BRICS Summit,8000,6.9,Yes
+2023-10-29,Chile,Bilateral,Renewable Energy,7000,6.8,No
+2020-11-13,Mexico,Bilateral,Trade Expansion,25000,8.1,Yes
+2021-03-27,Colombia,Bilateral,Infrastructure Partnership,5000,7.1,No
+2023-08-16,Egypt,Bilateral,Defense and Security,6000,6.7,Yes
+2023-07-30,Nigeria,Bilateral,Investment in Energy,8000,6.8,Yes
+2021-12-19,Kenya,Bilateral,Trade Cooperation,3000,6.5,No
+2022-10-11,Ethiopia,Bilateral,Food Security,2000,6.2,Yes
+2020-07-08,Tanzania,Bilateral,Investment,1500,6.1,No
+2019-09-25,Zambia,Bilateral,Infrastructure Development,1200,6.0,No
+2021-01-29,Zimbabwe,Bilateral,Agriculture Collaboration,800,5.8,No
